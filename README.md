@@ -7,6 +7,7 @@ Buiding a modern data engineering pipeline to transform and analyze Customer dat
 - Cloud: GCP
 - Storage: BigQuery
 - ETL: DBT
+- Scripts: Python
 - Environment: PyCharm
 
  ## Data source: 
