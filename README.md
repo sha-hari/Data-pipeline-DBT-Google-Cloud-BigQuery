@@ -21,17 +21,17 @@ Buiding a modern data engineering pipeline to transform and analyze Customer dat
 
 ## Project execution:
 
-### commands
-pip install dbt-bigquery
-dbt --version
-dbt init DBT-GCP-BigQuery
-dbt debug
-dbt run
-dbt run --full-refresh
-dbt seed
-dbt test
-dbt docs generate
-dbt docs serve --port 8083 (default on port 8080)
+### dbt Commands
+- pip install dbt-bigquery
+- dbt --version
+- dbt init DBT-GCP-BigQuery
+- dbt debug
+- dbt run
+- dbt run --full-refresh
+- dbt seed
+- dbt test
+- dbt docs generate
+- dbt docs serve --port 8083 (default on port 8080)
 
 
 ## Resources:
